@@ -1,4 +1,6 @@
 /*
+Rating: 800
+
 "QAQ" is a word to denote an expression of crying. Imagine "Q" as eyes with tears and "A" as a mouth.
 
 Now Diamond has given Bort a string consisting of only uppercase English letters of length n. There is a great number of "QAQ" in the string (Diamond is so cute!).
